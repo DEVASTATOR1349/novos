@@ -1,0 +1,7 @@
+zenserp_results/
+*.py
+*.json
+.env
+node_modules/
+patch_kmv_details.js
+
